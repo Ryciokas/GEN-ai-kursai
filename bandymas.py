@@ -1,2 +1,1 @@
-labas
-asdasdasda
+print("Labas")
